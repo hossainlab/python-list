@@ -1,4 +1,4 @@
-# Python List(Built-in DS) 
+# Python List(Built-in Data Structure) 
 ### Topics 
 * Introduction To List 
 * List indexing
